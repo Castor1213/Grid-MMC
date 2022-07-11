@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,CAAC;AACD,CAAC,AAAA,OAAO;AACR,CAAC,AAAA,QAAQ,CAAC;EACT,UAAU,EAAE,UAAU;EACtB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACV;;AACD,AAAA,IAAI,CAAC;EACD,SAAS,EAAE,KAAK;EAChB,eAAe,EAAE,MAAM;CAC1B;;AACD,AAAA,IAAI,CAAC;EAEJ,WAAW,EAAE,qBAAqB;EAC/B,SAAS,EAAE,MAAM;EACjB,KAAK,ECnBD,IAAI;EDoBR,gBAAgB,EChBb,OAAO;CDiBb",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/_colors.scss",
+        "../sass/_animations.scss",
+        "../sass/_small.scss",
+        "../sass/_medium.scss",
+        "../sass/_large.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
